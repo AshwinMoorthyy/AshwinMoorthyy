@@ -35,7 +35,7 @@
 
 <p align="center"> 
  &emsp;
-  <a href="megaashwin857@gmail.com" target="_blank">
+  <a href="www.gmail.com" target="_blank">
     <img alt ="Gmail" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" width="25"></a>
   &emsp;
   <a href="https://www.python.org" target="_blank">
